@@ -1,0 +1,25 @@
+{
+    "name": "blocker/bip39",
+    "description": "Easy to use, multi-language BIP39 implementation for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Hernandes",
+            "email": "diego@hernandev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1.0",
+        "ext-gmp": "*",
+        "illuminate/support": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blocker\\Bip39\\": "src/"
+        }
+    },
+    "require-dev": {
+    }
+}
