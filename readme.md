@@ -1,7 +1,5 @@
 # PHP BIP39
 
-[![Build Status](https://travis-ci.org/blocker-solutions/bip39.svg?branch=master)](https://travis-ci.org/blocker-solutions/bip39)
-[![Codecov](https://codecov.io/gh/blocker/bip39/branch/master/graph/badge.svg)](https://codecov.io/gh/blocker-/bip39)
 [![Latest Stable Version](https://poser.pugx.org/blocker/bip39/v/stable)](https://packagist.org/packages/blocker/bip39)
 [![License](https://poser.pugx.org/blocker/bip39/license)](https://packagist.org/packages/blocker/bip39)
 
