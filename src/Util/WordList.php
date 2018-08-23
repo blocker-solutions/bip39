@@ -19,7 +19,8 @@ class WordList
         'en' => 'English',
         'fr' => 'French',
         'it' => 'Italian',
-        'ja' => 'Chinese (simplified)',
+        'zh' => 'Chinese (simplified)',
+        'ja' => 'Japanese',
         'ko' => 'Korean',
         'es' => 'Spanish',
     ];
